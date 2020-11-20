@@ -13,14 +13,14 @@ A temporal point process is a model that simultaneously predict item and time in
 - Intensity-Free Learning of Temporal Point Processes(ICLR2020) [[Code]](https://github.com/shchur/ifl-tpp/blob/master/README.md)
 - Fast and Flexible Temporal Point Processes with Triangular Maps(NeurIPS 2020) [[Code]](https://github.com/shchur/triangular-tpp)
 
-## FrameWork
+## Framework
 - A general framework for learning spatio-temporal point processes via reinforcement learning. [[Code]](https://github.com/meowoodie/Reinforcement-Learning-of-Spatio-Temporal-Point-Processes)
 
 ## Utils
 - A Spatio-temporal point process simulator. [[Code]](https://github.com/meowoodie/Spatio-Temporal-Point-Process-Simulator)
 - PtPack: The C++ Multivariate Temporal Point Process Package. [[Code]](https://github.com/dunan/MultiVariatePointProcess)
 
-## DataSet
+## Dataset
 
 
 ## Others
