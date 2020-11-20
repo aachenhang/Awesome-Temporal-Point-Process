@@ -20,3 +20,8 @@ A temporal point process is a model that simultaneously predict item and time in
 
 
 ## DataSet
+
+
+## Others
+- MIT lecture [[url]](https://github.com/mitmath/18S096SciML)
+- PaperWithCode-point-processes [[url]](https://paperswithcode.com/task/point-processes)
