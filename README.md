@@ -1,5 +1,6 @@
 # Awesome-Temporal-Point-Process
 Have a collection of Temporal-Point-Process papers and implements.
+A temporal point process is a model that simultaneously predict item and time in tasks like recommendation system.
 
 ## Papers
 - [Recurrent Marked Temporal Point Processes: Embedding Event History to Vector](https://www.kdd.org/kdd2016/papers/files/rpp1081-duA.pdf)(DKK2016) [[Code]](https://github.com/dunan/NeuralPointProcess) [[Unofficial Tensorflow]](https://github.com/musically-ut/tf_rmtpp) [[Unofficial Pytorch]](https://github.com/woshiyyya/ERPP-RMTPP)
