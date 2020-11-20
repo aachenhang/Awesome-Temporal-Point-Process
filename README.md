@@ -19,6 +19,7 @@ A temporal point process is a model that simultaneously predict item and time in
 ## Utils
 - A Spatio-temporal point process simulator. [[Code]](https://github.com/meowoodie/Spatio-Temporal-Point-Process-Simulator)
 - PtPack: The C++ Multivariate Temporal Point Process Package. [[Code]](https://github.com/dunan/MultiVariatePointProcess)
+- PoPPy: A Point Process Toolbox Based on PyTorch. [[Code]](https://github.com/HongtengXu/PoPPy)
 
 ## Dataset
 
