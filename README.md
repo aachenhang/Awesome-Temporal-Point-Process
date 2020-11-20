@@ -3,6 +3,8 @@ A temporal point process is a model that simultaneously predict item and time in
 
 ## Papers
 - Recurrent Marked Temporal Point Processes: Embedding Event History to Vector(DDK2016) [[Code]](https://github.com/dunan/NeuralPointProcess) [[Unofficial Tensorflow]](https://github.com/musically-ut/tf_rmtpp) [[Unofficial Pytorch]](https://github.com/woshiyyya/ERPP-RMTPP)
+- Modeling the intensity function of point process via recurrent neural networks. (AAAI 2017) [[Unofficial Pytorch]](https://github.com/woshiyyya/ERPP-RMTPP)
+- Improving Maximum Likelihood Estimation of Temporal Point Process via Discriminative and Adversarial Learning. (IJCAI2018) 
 - The Neural Hawkes Process(NeurIPS 2017) [[Code]](https://github.com/HMEIatJHU/neurawkes)
 - Wasserstein Learning of Deep Generative Point Process Models(NeurIPS 2017) [[Code]](https://github.com/xiaoshuai09/Wasserstein-Learning-For-Point-Process)
 - Deep Reinforcement Learning of Marked Temporal Point Processes(NeurIPS 2018) [[Code]](https://github.com/Networks-Learning/tpprl)
