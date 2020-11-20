@@ -9,6 +9,6 @@ A temporal point process is a model that simultaneously predict item and time in
 - [Deep Reinforcement Learning of Marked Temporal Point Processes](http://xxx.itp.ac.cn/abs/1805.09360)(NeurIPS 2018) [[Code]](https://github.com/Networks-Learning/tpprl)
 - [Fully Neural Network based Model for General Temporal Point Processes](https://papers.nips.cc/paper/8485-fully-neural-network-based-model-for-general-temporal-point-processes)(NeurIPS 2019) [[Code]](https://github.com/omitakahiro/NeuralNetworkPointProcess)
 - [Intensity-Free Learning of Temporal Point Processes](https://openreview.net/forum?id=HygOjhEYDH)(ICLR2020) [[Code]](https://github.com/shchur/ifl-tpp/blob/master/README.md)
-- [Fast and Flexible Temporal Point Processes with Triangular Maps](http://xxx.itp.ac.cn/abs/2006.12631)(NeurIPS 2020) [[Code]](https://github.com/shchur/triangular-tpp)
+- Fast and Flexible Temporal Point Processes with Triangular Maps(NeurIPS 2020) [[Code]](https://github.com/shchur/triangular-tpp)
 
 ## DataSet
