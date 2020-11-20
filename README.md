@@ -18,11 +18,11 @@ A temporal point process is a model that simultaneously predict item and time in
 
 ## Utils
 - A Spatio-temporal point process simulator. [[Code]](https://github.com/meowoodie/Spatio-Temporal-Point-Process-Simulator)
-
+- PtPack: The C++ Multivariate Temporal Point Process Package. [[Code]](https://github.com/dunan/MultiVariatePointProcess)
 
 ## DataSet
 
 
 ## Others
-- MIT lecture [[url]](https://github.com/mitmath/18S096SciML)
-- PaperWithCode-point-processes [[url]](https://paperswithcode.com/task/point-processes)
+- MIT lecture [[Url]](https://github.com/mitmath/18S096SciML)
+- PaperWithCode-point-processes [[Url]](https://paperswithcode.com/task/point-processes)
